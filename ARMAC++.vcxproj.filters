@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Fecha.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Pais.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="administrador.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Domicilio.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Persona.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Solicitud.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Arma.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Socio.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="funciones.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Pago.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PagoSolicitud.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ValorCuota.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ValorSolicitud.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ArmasPorSocio.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="RecaudacionesPorAdmin.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="administrador.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Domicilio.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Fecha.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Pais.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Persona.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Solicitud.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Arma.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Socio.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="funciones.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Pago.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="PagoSolicitud.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ValorCuota.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ValorSolicitud.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ArmasPorSocio.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="recaudacionesPorAdmin.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{15f15856-dc87-4ff7-a8a4-beda31ea739e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{000e1b2a-673d-4150-8793-1c3023228b8a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
